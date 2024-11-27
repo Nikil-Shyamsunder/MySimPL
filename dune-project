@@ -1,5 +1,7 @@
 (lang dune 3.16)
 
+(using menhir 3.0)
+
 (name MySimPL)
 
 (generate_opam_files true)
