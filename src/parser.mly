@@ -9,7 +9,7 @@ open Ast
 %token LEQ 
 %token TIMES 
 %token PLUS 
-%token LPAREN
+%token LPAREN 
 %token RPAREN 
 %token LET
 %token EQUALS 
